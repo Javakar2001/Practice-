@@ -1,0 +1,11 @@
+D:\code\javakar\javakar\bin\Debug\javakar.exe.config
+D:\code\javakar\javakar\bin\Debug\javakar.exe
+D:\code\javakar\javakar\bin\Debug\javakar.pdb
+D:\code\javakar\javakar\obj\Debug\javakar.csproj.AssemblyReference.cache
+D:\code\javakar\javakar\obj\Debug\javakar.csproj.SuggestedBindingRedirects.cache
+D:\code\javakar\javakar\obj\Debug\javakar.csproj.CoreCompileInputs.cache
+D:\code\javakar\javakar\obj\Debug\javakar.exe
+D:\code\javakar\javakar\obj\Debug\javakar.pdb
+D:\code\javakar\javakar\bin\Debug\System.CodeDom.dll
+D:\code\javakar\javakar\bin\Debug\System.CodeDom.xml
+D:\code\javakar\javakar\obj\Debug\javakar.csproj.CopyComplete
